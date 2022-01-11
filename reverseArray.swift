@@ -11,7 +11,6 @@ while start < end{
     start = start + 1
     end = end - 1
 }
-
 print(arr)
 
 
