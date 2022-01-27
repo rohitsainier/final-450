@@ -1,6 +1,6 @@
 import Foundation
 
-var arr = [1,2,3,-2,5,]
+var arr = [1,2,3,-2,5]
 var max_ending_here = 0
 var max_so_far = 0
 for num in arr{
